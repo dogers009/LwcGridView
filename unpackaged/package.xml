@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Object_BC_Controller</members>
+        <members>Object_BC_Controller_Test</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Object_B__c.Object_A__c</members>
+        <members>Object_C__c.Object_B__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Object_A__c</members>
+        <members>Object_B__c</members>
+        <members>Object_C__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Object_A__c</members>
+        <members>Object_B__c</members>
+        <members>Object_C__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Object_A_Record_Page</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>gridObjectBandC</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <version>54.0</version>
+</Package>
